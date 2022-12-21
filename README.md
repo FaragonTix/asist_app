@@ -1,3 +1,3 @@
 # asist_app
 
-Small study project with java.
+Small project with PURE java.
